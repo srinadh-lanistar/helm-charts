@@ -3,12 +3,16 @@ entries:
   inginx-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-22T12:05:51.0894733+01:00"
+    created: "2021-06-22T12:12:18.9104949+01:00"
     description: A Helm chart for Kubernetes
-    digest: 369c5bcbf86453b947ef2a66d7a0a257a5709a2ed614a0426dbc67529b1ec166
+    digest: 20b098132b8ccc801545da14f69b70d736fbcbb3dfa9e6b13eb37846063efcb9
+    home: https://github.com/srinadh-lanistar/helm-charts
+    keywords:
+    - inginx-helm
+    - kubernetes
     name: inginx-helm
     type: application
     urls:
-    - https://srinadh-lanistar.github.io/helm-chart/inginx-helm-0.2.0.tgz
-    version: 0.2.0
-generated: "2021-06-22T12:05:51.0894733+01:00"
+    - https://srinadh-lanistar.github.io/helm-chart/inginx-helm-0.3.0.tgz
+    version: 0.3.0
+generated: "2021-06-22T12:12:18.9094946+01:00"
