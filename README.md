@@ -17,3 +17,5 @@ helm lint
 helm package inginx-helm
 helm install inginx-helm ./inginx-helm-0.1.0.tgz -n kube-slack
 helm uninstall inginx-helm
+
+helm dep up 
